@@ -13,6 +13,7 @@ I upgraded many parts.
 - Added IOT relay to turn it off.
 - Added A switch for power shutdown (connected to relay module)
 - Added a IOT Camera
+  
 Note: Octorprint was popular that time but I just a simple IOT Cam because it was more cheaper and easy.
 - Changed many nozzles and 2 times the heater block, 1 time POM Bearings.
 
