@@ -14,7 +14,7 @@ I upgraded many parts.
 - Added A switch for power shutdown (connected to relay module)
 - Added a IOT Camera
   
-Note: Octorprint was popular that time but I just a simple IOT Cam because it was more cheaper and easy.
+Note: Octorprint was popular that time but I just a use simple IOT Cam because it was more cheaper and easy.
 - Changed many nozzles and 2 times the heater block, 1 time POM Bearings.
 
   I used it a lot , for so many projects.
@@ -23,7 +23,7 @@ Play with it, printered hours for large parts. Change broken parts , got many fa
 
 In short I had fun with it , I love 3D printing,
 
-Now, I had a job and dont have time to deal with all those things. So I use now , Bambulab X1-Carbon. 
+Now, I had a job and dont have time to deal with all those things. So I use Bambulab X1-Carbon now. 
 
 <img width="524" alt="bambu lab" src="https://github.com/user-attachments/assets/a1ef64b8-73d4-4d8e-925d-1dc28542e99e" />
 
