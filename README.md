@@ -17,7 +17,7 @@ I upgraded many parts.
 Note: Octorprint was popular that time but I just a simple IOT Cam because it was more cheaper and easy.
 - Changed many nozzles and 2 times the heater block, 1 time POM Bearings.
 
-  So you can I used it a lot , for so many projects.
+  I used it a lot , for so many projects.
 
 Play with it, printered hours for large parts. Change broken parts , got many failed prints , edited G codes, upgraded many parts. 
 
