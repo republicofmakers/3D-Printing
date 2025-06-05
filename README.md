@@ -1,5 +1,6 @@
 # 3D-Printing
 
+I've been involved in 3D printing since 2018, starting with the release of the Ender 3 Pro. Nowadays, I use the Bambu Lab X1 Combo for my projects, ranging from creating custom cases for electronics to replicating or repairing broken mechanical parts. 
 
 <img width="526" alt="ender 3 pro" src="https://github.com/user-attachments/assets/f49eaa30-b328-4ab5-be89-65dce125ddfc" />
 
@@ -28,7 +29,7 @@ Now, I had a job and dont have time to deal with all those things. So I use Bamb
 <img width="524" alt="bambu lab" src="https://github.com/user-attachments/assets/a1ef64b8-73d4-4d8e-925d-1dc28542e99e" />
 
 
-Note: Highly recommended.
+Note: Highly recommended, this printed part use my mini pc. [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
 
 
 I know SLA printers coming more popular because of their decent print quality.
