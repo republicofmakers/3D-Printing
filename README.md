@@ -29,7 +29,7 @@ Now, I had a job and dont have time to deal with all those things. So I use Bamb
 <img width="524" alt="bambu lab" src="https://github.com/user-attachments/assets/a1ef64b8-73d4-4d8e-925d-1dc28542e99e" />
 
 
-Note: Highly recommended, this printed part use my mini pc. [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
+Note: Highly recommended, this printed part used my mini pc. [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
 
 
 I know SLA printers coming more popular because of their decent print quality.
